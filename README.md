@@ -2,7 +2,7 @@
 
 Meu nome é Maria Eduarda
 - Eu tenho 16
-- Gosto de ler,filmes e series
+- Gosto de ler,filmes e series.
 
 - *Estou estudando na [Alura](https://www.alura.com.br)*
 - *Estou me desenvolvendo na línguagem JavaScript*
